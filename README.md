@@ -1,4 +1,4 @@
-### Olá, eu sou o Breno Marques! 🤙
+### Olá, eu sou Breno Marques. 🤙
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/breeno.marques2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee)](https://www.instagram.com/soubreeno/)
