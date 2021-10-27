@@ -1,14 +1,19 @@
 ### Olá, eu sou Breno Marques. 🤙
 
+## 📱 Contact
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/breeno.marques2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee)](https://www.instagram.com/soubreeno/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-marques-developer/)
+
+## 🎞 Streaming 
+
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/breenofps)
 
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=soubreno&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia
+## 🚀 Skills
 
 <div style="display: inline_block"><br/>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,7 +26,7 @@
 
 
 
-## Setup 
+## 💻 Workspace Spec
 
 <div style="display: inline_block"><br/>
     <img alt="gtx1660" src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
@@ -30,7 +35,7 @@
 </div> 
 
 
-## Games que costumo jogar
+## 🎮🕹 Games
 
 <div style="display: inline_block"><br/>
     <img alt="csgo" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
