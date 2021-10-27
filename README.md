@@ -43,7 +43,9 @@
     <img alt="csgo" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
 </div><br/>
 
-Apaixonado por tecnologia, games, educação e ajudar as pessoas no que eu puder através da programação.
+## :relaxed: My intention
+
+I'm passionate about games, technology and programming. I hope I can help you in any way possible.
 
 
 
