@@ -1,4 +1,4 @@
-### Olá, eu sou Breno Marques. 🤙
+### Hi, my name is Breno Marques. I hope you like my profile! :smile:
 
 ## 📱 Contact
 
