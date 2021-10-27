@@ -1,4 +1,4 @@
-### Hi, my name is Breno Marques. I hope you like my profile! :smile:
+### Hi, my name is <strong>Breno Marques</strong>. I hope you like my profile! :smile:
 
 ## 📱 Contact
 
