@@ -12,8 +12,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/breenofps)
 
 
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=soubreno&show_icons=true&theme=radical)
-
 ## 🚀 Skills
 
 <div style="display: inline_block"><br/>
@@ -27,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soubreno&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=soubreno&show_icons=true&theme=radical)
 
 ## 💻 Workspace Spec
 
