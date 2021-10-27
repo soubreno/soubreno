@@ -27,7 +27,7 @@
 <br/><br/>
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=soubreno&show_icons=true&theme=radical)
 
-## 💻 Workspace Spec
+## :desktop_computer: Workspace Spec
 
 <div style="display: inline_block"><br/>
     <img alt="gtx1660" src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
@@ -36,7 +36,7 @@
 </div> 
 
 
-## 🎮🕹 Games
+## :keyboard: :computer_mouse: Games
 
 <div style="display: inline_block"><br/>
     <img alt="csgo" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
