@@ -21,7 +21,7 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div><br/>
 
-<div>https://github-readme-stats.vercel.app/api/top-langs/?username={soubreno}&theme=blue-green</div>
+<div>https://github-readme-stats.vercel.app/api/top-langs/?soubreno={soubreno}&theme=blue-green</div>
 
 ## :desktop_computer: Workspace Spec
 
