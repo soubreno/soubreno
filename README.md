@@ -20,6 +20,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 </div><br/>
 
 ##  📊 GitHub Stats
