@@ -1,4 +1,16 @@
-### Hi, my name is <strong>Breno Marques</strong>. I hope you like my profile! :smile:
+### My name is <strong>Breno Marques</strong>, I'm 28 years old and I was born in Rio de Janeiro. I currently live alone. I'm looking for a vacancy in the web development area, which I've been studying for a few months, and which I've always been passionate about.
+
+I am quite enthusiastic about hardware, equipment and technologies.
+
+My passion led me to start working in a lan house at the age of 14. Managing all aspects of customer service such as: IT assistance, mobile recharge, printing, photocopying and computer maintenance.
+
+As I really enjoy reading and am curious, I enrolled in the History course at PUC-RIO. However, a short time later, I did not see myself being a Historian or Professor of History. I always wanted to study some area that was related to the experiences I had at the lan house.
+
+It took me a while to demystify a myth that always said that the technological area was for very intelligent people or very good people with mathematics. Until, in September 2021, after the pandemic, I met Professor Bonieky Lacerda's company B7Web. A study platform very well evaluated by its students and with complete and high quality content from many programming languages.
+
+As a result, I was drawn to programming for its ability to help people get their dreams off the ground. I have knowledge in: HTML5, CSS3, JavaScript, TypeScript, Styled-Components, Tailwind CSS, Bootstrap 4 and currently learning React.js
+
+That said, I'm looking for my first job opportunity, with the objective of growing professionally and also being able to contribute to the company's growth. :smile:
 
 ## 📱 Contact
 
