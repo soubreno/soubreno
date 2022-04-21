@@ -1,4 +1,4 @@
-### My name is <strong>Breno Marques</strong>, I'm 28 years old and I was born in Rio de Janeiro. I currently live alone. I'm looking for a vacancy in the web development area, which I've been studying for a few months, and which I've always been passionate about.
+### My name is Breno Marques, I'm 28 years old and I was born in Rio de Janeiro. I currently live alone. I'm looking for a vacancy in the web development area, which I've been studying for a few months, and which I've always been passionate about.
 
 I am quite enthusiastic about hardware, equipment and technologies.
 
