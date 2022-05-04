@@ -1,16 +1,16 @@
-### My name is Breno Marques, I'm 28 years old and I was born in Rio de Janeiro. I currently live alone. I'm looking for a vacancy in the web development area, which I've been studying for a few months, and which I've always been passionate about.
+### Olá, me chamo Breno Marques, tenho 28 anos e nasci no Rio de Janeiro. Atualmente, moro sozinho. Busco uma vaga na área de desenvolvimento web, a qual venho estudando durante alguns meses, e pela qual sempre fui apaixonado. 
 
-I am quite enthusiastic about hardware, equipment and technologies.
+Sou bastante entusiasta de hardwares, equipamentos e tecnologias.
 
-My passion led me to start working in a lan house at the age of 14. Managing all aspects of customer service such as: IT assistance, mobile recharge, printing, photocopying and computer maintenance.
+A minha paixão me levou a começar a trabalhar em uma lan house aos 14 anos. Gerindo todo a parte de atendimento ao cliente como: Assistência de informática, recarga para celular, impressão, xerox e manutenções nos computadores.
 
-As I really enjoy reading and am curious, I enrolled in the History course at PUC-RIO. However, a short time later, I did not see myself being a Historian or Professor of History. I always wanted to study some area that was related to the experiences I had at the lan house.
+Como gosto bastante de ler e sou curioso, ingressei no curso de História da PUC-RIO. Porém, pouco tempo depois, não me via sendo Historiador ou Professor de História. Sempre tive vontade de cursar alguma área que tivesse correlação com as experiências que tive na lan house. 
 
-It took me a while to demystify a myth that always said that the technological area was for very intelligent people or very good people with mathematics. Until, in September 2021, after the pandemic, I met Professor Bonieky Lacerda's company B7Web. A study platform very well evaluated by its students and with complete and high quality content from many programming languages.
+Demorei pra desmistificar um mito que sempre diziam que área tecnológica era para pessoas inteligentíssimas ou muito boas com matemática. Até que, em setembro de 2021, pós pandemia, conheci a empresa B7Web, do professor Bonieky Lacerda. Uma plataforma de estudos muito bem avaliada por seus alunos e com conteúdos completos e de bastante qualidade de muitas linguagens de programação. 
 
-As a result, I was drawn to programming for its ability to help people get their dreams off the ground. I have knowledge in: HTML5, CSS3, JavaScript, TypeScript, Styled-Components, Tailwind CSS, Bootstrap 4 and currently learning React.js
+Com isso, fui atraído pela programação por sua capacidade de ajudar as pessoas a tirarem seus sonhos do papel. Possuo conhecimentos em: HTML5, CSS3, JavaScript, TypeScript, Styled-Components, Tailwind CSS, Bootstrap 4 e no momento estudando React.js 
 
-That said, I'm looking for my first job opportunity, with the objective of growing professionally and also being able to contribute to the company's growth. :smile:
+Dito isso, busco a minha primeira oportunidade de trabalho, com o objetivo de crescer profissionalmente e poder também contribuir para o crescimento da empresa. :smile:
 
 ## 📱 Contact
 
