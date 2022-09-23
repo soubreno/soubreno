@@ -6,8 +6,6 @@ A minha paixão me levou a começar a trabalhar em uma lan house aos 14 anos. Ge
 
 Como gosto bastante de ler e sou curioso, ingressei no curso de História da PUC-RIO. Porém, pouco tempo depois, não me via sendo Historiador ou Professor de História. Sempre tive vontade de cursar alguma área que tivesse correlação com as experiências que tive na lan house. 
 
-Demorei pra desmistificar um mito que sempre diziam que área tecnológica era para pessoas inteligentíssimas ou muito boas com matemática. Até que, em setembro de 2021, pós pandemia, conheci a empresa B7Web, do professor Bonieky Lacerda. Uma plataforma de estudos muito bem avaliada por seus alunos e com conteúdos completos e de bastante qualidade de muitas linguagens de programação. 
-
 Com isso, fui atraído pela programação por sua capacidade de ajudar as pessoas a tirarem seus sonhos do papel. Possuo conhecimentos em: HTML5, CSS3, JavaScript, TypeScript, Styled-Components, Tailwind CSS, Bootstrap 4 e no momento estudando React.js 
 
 Dito isso, busco a minha primeira oportunidade de trabalho, com o objetivo de crescer profissionalmente e poder também contribuir para o crescimento da empresa. :smile:
