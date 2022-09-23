@@ -1,4 +1,4 @@
-Olá, me chamo Breno Marques, tenho 28 anos e nasci no Rio de Janeiro. Atualmente, moro sozinho. Busco uma vaga na área de desenvolvimento web, a qual venho estudando durante alguns meses, e pela qual sempre fui apaixonado. 
+Olá, me chamo Breno Marques, tenho 27 anos e nasci no Rio de Janeiro. Atualmente, moro sozinho. Busco uma vaga na área de desenvolvimento web, a qual venho estudando durante alguns meses, e pela qual sempre fui apaixonado. 
 
 Sou bastante entusiasta de hardwares, equipamentos e tecnologias.
 
