@@ -1,14 +1,10 @@
-Olá, me chamo Breno Marques, tenho 27 anos e nasci no Rio de Janeiro. Atualmente, moro sozinho. Busco uma vaga na área de desenvolvimento web, a qual venho estudando durante alguns meses, e pela qual sempre fui apaixonado. 
+🙋‍♂️ Olá povo, me chamo Breno. 
 
-Sou bastante entusiasta de hardwares, equipamentos e tecnologias.
+💻 Atualmente sou estudando de Análise e Desenvolvimento de Sistemas. Complementando meus estudos por fora, mantenho fazendo projetos em HTML5, CSS3, JavaScript, TypeScript, Styled-Components, Tailwind CSS, Bootstrap 4 e SQL.
 
-A minha paixão me levou a começar a trabalhar em uma lan house aos 14 anos. Gerindo todo a parte de atendimento ao cliente como: Assistência de informática, recarga para celular, impressão, xerox e manutenções nos computadores.
+📚 Estudando Python na faculdade, mas estou me aperfeiçoando em JavaScript e ReactJS. 
 
-Como gosto bastante de ler e sou curioso, ingressei no curso de História da PUC-RIO. Porém, pouco tempo depois, não me via sendo Historiador ou Professor de História. Sempre tive vontade de cursar alguma área que tivesse correlação com as experiências que tive na lan house. 
-
-Com isso, fui atraído pela programação por sua capacidade de ajudar as pessoas a tirarem seus sonhos do papel. Possuo conhecimentos em: HTML5, CSS3, JavaScript, TypeScript, Styled-Components, Tailwind CSS, Bootstrap 4 e no momento estudando React.js 
-
-Dito isso, busco a minha primeira oportunidade de trabalho, com o objetivo de crescer profissionalmente e poder também contribuir para o crescimento da empresa. :smile:
+🚀 Estou sempre disposto para aprender novas tecnologias necessárias para o meu crescimento profissional e também poder contribuir com a empresa.
 
 ## 📱 Contact
 
